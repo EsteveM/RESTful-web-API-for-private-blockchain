@@ -41,6 +41,7 @@ The procedure to obtain functional a copy of the project on your local machine s
 * Firstly, you have to download the project files from this repository onto your local machine.
 * Secondly, you have to install Node.js® and NPM, which can be done from the [Node.js® site](https://nodejs.org/en/).
 * Thirdly, you have to initialize the project by typing `npm init` on a terminal shell on your project main directory. Then, install crypto-js, level, express, and body-parser by typing `npm install crypto-js --save` and `npm install level --save`, `npm install express --save`, and `npm install body-parser --save` respectively.
+* At this point, the server can be started by typing `node app.js`.
 * Once that has been done, you can test the project. One way to do this is by using [Postman](https://www.getpostman.com/), which tests endpoints.
 
 ## Contributing
